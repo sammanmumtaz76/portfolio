@@ -36,7 +36,7 @@ nav {
   z-index: 100;
 }
 
-.logo {
+.Logo {
   width: 120px;
   flex-shrink: 0;
   margin-right: auto; /* always left */
@@ -478,7 +478,7 @@ footer p {
   .header-text h2 {
     font-size: 20px;
   }
-  .logo{
+  .Logo{
     margin-left: 0px;
     width: 70px;
   }
@@ -525,4 +525,5 @@ footer p {
   .header-text h2 {
     font-size: 18px;
   }
+
 }
